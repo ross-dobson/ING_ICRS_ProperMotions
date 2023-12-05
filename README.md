@@ -1,2 +1,2 @@
 # ING_ICRS_ProperMotions
-Convert ICRS mas/year proper motions to the INT sec/year &amp; arcsec/year format
+Convert ICRS milliarcsecond/year proper motions to the INT format: $\mu_\alpha$ in sec/year and $\mu_\delta$ in arcsec/year.
